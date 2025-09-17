@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AIT730 Case Study Repository - Legacy System Modernization# AIT730 Case Study Repository - Legacy System Modernization# AIT730 Case Study: Agentic AI in Project Management
 
 
@@ -169,6 +170,64 @@ This case study evaluates AI model performance on complex, multi-faceted project
 ---6. **Quality Assurance and Testing Strategy** (research baseline duration and cite appropriately)
 
 *This repository supports AIT730 research on AI model capabilities in enterprise project management contexts. The Legacy System Modernization scenario represents authentic corporate transformation challenges requiring sophisticated analytical and strategic thinking.*
+=======
+# AIT730 Case Study: Agentic AI in Project Management
+
+## Research Overview
+
+This repository contains a focused case study examining the capabilities and effectiveness of agentic AI technologies in project management contexts. The research evaluates how well current AI tools can perform complex, time-intensive project management tasks that traditionally require significant human expertise and experience.
+
+## Research Question
+
+**Primary Research Question**: How effectively can agentic AI technologies provide significant time savings while maintaining professional quality in complex project management tasks?
+
+**Secondary Research Questions**:
+- What are the strengths and limitations of different AI models in handling time-intensive PM tasks?
+- Which complex project management activities offer the greatest potential for AI-driven efficiency gains?
+- What is the practical readiness of AI tools for professional project management environments?
+- How do different AI models compare in terms of accuracy, efficiency, and real-world applicability?
+
+## Research Scope (100-Hour Graduate Study)
+
+**Models to Evaluate**: Claude Sonnet, Google Gemini, GPT-5, [Fourth Model TBD]  
+**Core Tasks**: 6 high-value, time-intensive PM activities  
+**Extended Analysis**: 2 additional complex tasks for top-performing models  
+**Focus**: Research how AI time efficiency compares to traditional project management approaches
+
+## Repository Structure
+
+### 01_Project_Scenarios/
+Contains one comprehensive project scenario representing complex enterprise transformation:
+- **Legacy System Modernization**: Oracle-to-Azure cloud migration for manufacturing company
+  - Complex technical architecture transformation
+  - Multi-million dollar budget with significant cost optimization potential  
+  - High-risk stakeholder environment with change resistance
+  - Regulatory compliance and business continuity requirements
+  - 18-month timeline with hard deadline constraints
+
+**Scenario Selection Rationale**: Represents common enterprise challenge (legacy modernization) with sufficient complexity to differentiate AI capabilities across technical, financial, organizational, and strategic domains.
+
+### 02_Supporting_Documents/
+Focused background materials concentrating on 6 key areas:
+- Company profiles and organizational context
+- Talent pool and resource availability
+- Customer requirements and stakeholder needs  
+- Project requests and business drivers
+- Bid requirements and technical specifications
+- Market information and competitive landscape
+
+**Simplification Rationale**: Reduced complexity to focus on core information needed for AI evaluation while avoiding excessive detail that would obscure AI reasoning capabilities.
+
+### 03_Test_Tasks/
+**Core Tasks** (All 4 Models - 6 Tasks):
+1. **Comprehensive Risk Assessment and Mitigation Planning** (research baseline duration and cite appropriately)
+2. **Detailed Migration Strategy and Implementation Plan** (research baseline duration and cite appropriately)  
+3. **Stakeholder Engagement and Communication Strategy** (research baseline duration and cite appropriately)
+4. **Vendor Management and Procurement Strategy** (research baseline duration and cite appropriately)
+5. **Cost-Benefit Analysis and Financial Management** (research baseline duration and cite appropriately)
+6. **Quality Assurance and Testing Strategy** (research baseline duration and cite appropriately)
+
+>>>>>>> fb3c0a5 (first commit)
 **Extended Tasks** (Top 2 Models - 2 Tasks):
 7. **Enterprise Architecture and Integration Design** (research baseline duration and cite appropriately)
 8. **Organizational Change Management Program** (research baseline duration and cite appropriately)
